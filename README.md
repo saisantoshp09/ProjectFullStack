@@ -1,4 +1,4 @@
-# Project Name
+# Restaraunt Reservation System
 
 ## Description
 This project is a web application built using a **React** front-end and a **Django** back-end. The application enables users to make reservations, view all reservations, and manage data efficiently.
